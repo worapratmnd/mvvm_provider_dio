@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260812678560",
+    "project_id": "flutter-mvvm-provider-41e9a",
+    "storage_bucket": "flutter-mvvm-provider-41e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260812678560:android:76927b010631b78f2730c5",
+        "android_client_info": {
+          "package_name": "com.woraprat.mvvm_provider_dio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260812678560-aojmif619cglo8ulotmkrv6bsu81btv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnRJgM9q6G5q3jodDC0r5LGACc0zkxJNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260812678560-aojmif619cglo8ulotmkrv6bsu81btv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

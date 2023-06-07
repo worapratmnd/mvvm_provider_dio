@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class ButtomNavProvider extends ChangeNotifier {
   int _currenIndex = 0;
-  String _title = 'First';
+  String _title = 'Users';
 
   // getter
   int get currentIndex => _currenIndex;
@@ -13,13 +13,13 @@ class ButtomNavProvider extends ChangeNotifier {
     _currenIndex = index;
     switch (index) {
       case 0:
-        _title = 'First';
+        _title = 'Users';
         break;
       case 1:
-        _title = 'Second';
+        _title = 'Products';
         break;
       case 2:
-        _title = 'Third';
+        _title = 'Maps';
         break;
     }
     notifyListeners();
